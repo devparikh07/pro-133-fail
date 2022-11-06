@@ -1,0 +1,26 @@
+.header{
+    color: rgb(134, 235, 27);
+    font-size: 25px;
+    box-shadow: 5px 5px 5px rgb(248, 106, 106);
+}
+.header:hover{
+    width: 220px;
+}
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+.link {
+    font-size: 20px;
+    background: rgb(189, 235, 4);
+    border-radius: 10px;
+    width: 300px;
+    margin-top: 15px;
+    box-shadow: 5px 5px 5px rgb(242, 242, 242);
+}
+
+.link:hover {
+    font-size: 25px;
+    text-decoration: underline;
+}
